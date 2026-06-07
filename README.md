@@ -33,4 +33,8 @@ An interactive sales analytics dashboard designed to evaluate McDonald’s sales
 <img width="900" height="343" alt="Screenshot 2026-06-07 083248" src="https://github.com/user-attachments/assets/cbc3049f-89f5-400b-a29e-691a7966f3ff" />
 
 
+## 🚀 How to View
+1. Clone this repository to your local machine.
+2. Ensure you have **MS Excelp** installed.
+3. Open the `McDonald's Regional Sales Analytics.xlsx` file to interact with the dashboards.
 
