@@ -4,6 +4,12 @@ An interactive sales analytics dashboard designed to evaluate McDonald’s sales
 ## Project Objective
 Analyzed McDonald’s sales performance across South America using interactive Excel dashboards to identify revenue trends, regional insights, and key business metrics.
 
+## Dashboard Preview
+
+
+<img width="900" height="343" alt="Screenshot 2026-06-07 083248" src="https://github.com/user-attachments/assets/cbc3049f-89f5-400b-a29e-691a7966f3ff" />
+
+
 ## Questions(KPIs)
 - Which region generates the highest sales revenue?
 - Which product categories contribute most to overall profit?
